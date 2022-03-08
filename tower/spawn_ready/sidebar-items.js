@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["future","Background readiness types"]],"struct":[["SpawnReady","Spawns tasks to drive an inner service to readiness."],["SpawnReadyLayer","Spawns tasks to drive its inner service to readiness."]]});
